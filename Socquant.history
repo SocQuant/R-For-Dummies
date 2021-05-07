@@ -1,0 +1,291 @@
+1+1
+example <- matrix(c(1, 2, 3, 4, 5, 6, 7, 8), nrow = 4, ncol = 2)
+View(example)
+View(example)
+View(example)
+view(example)
+View(example)
+View(Untitled1)
+View(Global environment())
+View(Global environmentName(a))
+example <- matrix(c(1, 2, 3, 4, 5, 6, 7, 8), nrow = 4, ncol = 2)
+View(example)
+matplot(x, y, type = "p", lty = 1:5, lwd = 1, lend = par("lend"),
+pch = NULL,
+col = 1:6, cex = NULL, bg = NA,
+xlab = NULL, ylab = NULL, xlim = NULL, ylim = NULL,
+log = "", ..., add = FALSE, verbose = getOption("verbose"))
+install.packages("ggplot2")
+install.packages("ggplot2")
+source("https://bioconducter.org/biocLite.R")
+source("https://bioconductor.org/biocLite.R")
+biocLite()
+if (!requireNamespace("BiocManager", quietly = TRUE))
+install.packages("BiocManager")
+BiocManager::install(version = "3.11")
+BiocManager::install(c("GenomicFeatures", "AnnotationDbi"))
+install.packages("devtools")
+install.packages("devtools")
+library(ggplot2)
+library()
+library(ggplot2)
+detach("package:ggplot2", unload = TRUE)
+library(ggplot2)
+detach("package:ggplot2", unload = TRUE)
+library(ggplot2)
+version
+help()
+help(package = "ggplot2")
+install.packages("ggplot2")
+help()
+help(package = "ggplot2")
+install.packages("ggplot2")
+browseVignettes()
+browseVignettes("ggplot2")
+install.packages("devtools")
+install.packages("KernSmooth")
+writeLines('PATH="${RTOOLS40_HOME}\\usr\\bin;${PATH}"', con = "~/.Renviron")
+Sys.which("make")
+## "C:\\rtools40\\usr\\bin\\make.exe"
+install.packages("jsonlite", type = "source")
+install.packages("jsonlite", type = "source")
+install.packages("ggplot2")
+writeLines('PATH="${RTOOLS40_HOME}\\usr\\bin;${PATH}"', con = "~/.Renviron")
+Sys.which("make")
+## "C:\\rtools40\\usr\\bin\\make.exe"
+Sys.which("make")
+## "C:\\rtools40\\usr\\bin\\make.exe"
+install.packages("jsonlite", type = "source")
+install.packages("ggplot2")
+install.packages("jsonlite", type = "source")
+install.packages("devtools")
+install.packages("KernSmooth")
+load("Kernsmooth")
+library(pkgload)
+detach("package:pkgload", unload = TRUE)
+library(pkgload)
+install.packages("ggplot2")
+detach("package:pkgload", unload = TRUE)
+library(ggplot2)
+read.csv("C:\Users\OzanÇ\Desktop\acs2015_census_tract_data.csv")
+read.csv(C:\Users\OzanÇ\Desktop\acs2015_census_tract_data.csv)
+read.csv(C:\Users\OzanÇ\Desktop\acs2015_census_tract_data.csv)
+help(read.csv)
+read.csv(C:\Users\OzanÇ\Desktop\acs2015_census_tract_data.csv)
+read.csv("C:\Users\OzanÇ\Desktop\acs2015_census_tract_data.csv")
+read.csv( read.csv(C:\Users\OzanÇ\Desktop\acs2015_census_tract_data.csv))
+read.csv(C:\Users\OzanÇ\Desktop\acs2015_census_tract_data.csv)
+read.csv(C:\\Users\\OzanÇ\\Desktop\\acs2015_census_tract_data.csv)
+read.csv("C:\\Users\\OzanÇ\\Desktop\\acs2015_census_tract_data.csv")
+read.csv(""C:\\Users\\OzanÇ\\Downloads\\NaturalGas.csv"")
+read.csv("C:\\Users\\OzanÇ\\Downloads\\NaturalGas.csv")
+read.csv("C:\\Users\\OzanÇ\\Desktop\\acs2015_census_tract_data.csv")
+read.csv("C:\\Users\\OzanÇ\\Downloads\\EuroEnergy.csv")
+read.csv("C:\\Users\\OzanÇ\\Downloads\\ConsumerGood.csv")
+readcsv
+read.csv("C:\\Users\\OzanÇ\\Downloads\\CigarettesB.csv")
+mean
+mydata <- read.csv("C:\\Users\\OzanÇ\\Downloads\\CigarettesB.csv")
+View(mydata)
+View(mydata)
+mean(mydata, trim=0, na.rm = FALSE, price)
+mean(mydata, trim=0, na.rm = FALSE)
+$ R
+myString <- "Hello, World!"
+print (myString)
+hjkhjkhjk<-"Hello"
+print (hjkhjkhjk)
+#onlinedönem bok gibi
+#haydibakalımletsgoasdasşdasasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+#kjlasffs
+asfasf
+dasasd
+asdsa
+if(FALSE) {
+"şimdi burda
+istediğimi yaparm
+}
+ozan <- c("x", "y", "z")
+ozan <- c("x","y","z")
+print(ozan)
+ozan<-x-c(x,y,z)
+ozan<-c(x,y,z)
+ozan<-c('x','y')
+print(ozan)
+print(c("x","y","z"))
+print(c("ay"         "yıl"        "gün"))
+print(c("ay","                   ","yıl"))
+print(list(c(2,5,3),21.3,sin))
+print(
+data.frame(
+gender=c("Male","Male","Female")
+height=c(152,171.5,165)
+weight=c(81,93,78)
+Age=c(42,38,26)
+)
+)
+print()
+print(
+data.frame(
+gender=c("Male","Male","Female"),
+height=c(152,171.5,165),
+weight=c(81,93,78),
+Age =c(42,38,26)
+)
+)
+print("Hello World!")
+1+2+3+4
+c(1,2,3,4,5)
+1:5
+sum(1:100)
+c(a:b)
+c(a:c)
+a:c
+50:100
+x=1:10
+x
+y=11:20
+x+y
+x^2
+z=x^y
+z
+h="Hello World!"
+p="Fuck you"
+h+p
+h&p
+h p
+h
+p
+x
+y
+paste("naber", "güzeş")
+yourname=readline("What is your name")
+h="Hello"
+yourname=readline("What is your name")
+print("Hello World")
+h="Hello"
+yourname=readline("What is your name")
+print("Hello World")
+h="Hello"
+yourname=readline("What is your name")
+source('~/.active-rstudio-document')
+source('~/.active-rstudio-document')
+source('~/.active-rstudio-document')
+View(mydata)
+force(add.scope)
+force(weighted.residuals)
+View(variable.names)
+View(weighted.residuals)
+View(var.test)
+View(weighted.mean)
+View(weighted.residuals)
+View(var)
+force(anscombe)
+force(airquality)
+force(attenu)
+force(discoveries)
+View(anscombe)
+View(attenu)
+View(airquality)
+force(findMethod)
+install.packages("learnr")
+h=c(hello,World)
+h=c('Hello','World')
+h
+print(h)
+h<-"Hello"
+yourname<-readline("What is your name")
+paste(h,yourname)
+yourname<-readline("What is yourname")
+print(paste(h,yourname))
+yourname<-readline("What is yourname")
+print("Hello World")
+?sum
+sum(1:5,NA)
+sum(1,2,3,NA,4,5,NA,x,02,na.rm=TRUE)
+sum(1,2,3,NA,4,5,NA,x,02,na.rm=FALSE)
+rm(h)
+get(wd)
+get)wd
+get(wd)
+getwd
+getwd()
+save(yourname, file= "yourname.save1")
+rm(yourname)
+load(yourname)
+load(yourname.save1)
+load("yourname.save1")
+?c
+c(1, 7:9)
+c(1:5, 10.5, 7*5, "next")
+x<-1:4
+names(x)<- letters[1:4]
+x
+c(x)
+as.vector(x)
+dim(x) <- c(2,2)
+x
+x
+c(x)
+as.vector(x)
+baskets.of.Granny <- c(12, 4, 4, 6, 9, 3)
+baskets.of.Granny
+y <- baskets.of.Granny
+sum(y)
+z <- sum(y)
+ls()
+rm(p)
+q <- 1:20
+q <- 1:10
+q+sum(y)
+firstnames <- c("Ozan", "Deniz Berk")
+lastnames <- c("Çetiner", "Özcan")
+firstnames + lastanems
+firstnames + lastnames
+paste (firstnames, lastnames)
+##This is how vectorization works
+firstnames <- c("Ozan", "Barış", "Sema", "Kemal")
+lastname <- "Çetiner"
+paste(firstnames,lastname)
+source('C:/Users/OzanÇ/OneDrive/Belgeler/Socquant.R', echo=TRUE)
+firstnames <- c("Ozan", "Barış", "Sema", "Kemal")
+lastname <- "Çetiner"
+paste(firstnames,lastname)
+firstnames <- c("Ozan", "Barış", "Sema", "Kemal")
+lastname <- "Çetiner"
+paste(firstnames,lastname)
+source('C:/Users/OzanÇ/OneDrive/Belgeler/Socquant.R', echo=TRUE)
+firstnames <- c("Ozan", "Barış", "Sema", "Kemal")
+lastname <- "Çetiner"
+paste(firstnames,lastname)
+print()
+print(x="isn't it fun?")
+print(digits=4, 11/7)
+print.default(digits=4, 11/7)
+print(11/7, digits=10)
+?print
+baskets.of.Geraldine <-
+c(5, 3, 2, 2, 12, 9)
+Intro <- "It is amazing! The All Star Grannies scored
+a total of"
+Outro <- "baskets in the last six games!"
+Total.baskets <- baskets.of.Granny +
+baskets.of.Geraldine
+Text <- paste(Intro,
+sum(Total.baskets),
+Outro)
+cat(Text)
+cat("blablablablabla
+anadansdlasd"    )
+library(parallel, lib.loc = "C:/Program Files/R/R-4.0.2/library")
+detach("package:parallel", unload = TRUE)
+install.packages("fortunes")
+library(fortunes)
+fortune("This is R")
+fortune(161)
+detach(package:fortunes, unload = TRUE)
+library(fortunes)
+detach("package:fortunes", unload = TRUE)
+8%/%3
+8/3
+source('C:/Users/OzanÇ/OneDrive/Belgeler/Socquant.R', echo=TRUE)
